@@ -1,0 +1,40 @@
+
+dresses.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dress5
+  rotate: false
+  xy: 2, 2
+  size: 287, 380
+  orig: 287, 380
+  offset: 0, 0
+  index: -1
+Dress4
+  rotate: false
+  xy: 2, 384
+  size: 287, 380
+  orig: 287, 380
+  offset: 0, 0
+  index: -1
+Dress3
+  rotate: false
+  xy: 291, 2
+  size: 287, 380
+  orig: 287, 380
+  offset: 0, 0
+  index: -1
+Dress2
+  rotate: false
+  xy: 580, 2
+  size: 287, 380
+  orig: 287, 380
+  offset: 0, 0
+  index: -1
+Dress1
+  rotate: false
+  xy: 291, 384
+  size: 287, 380
+  orig: 287, 380
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,82 @@
+
+misc.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Recliner3
+  rotate: false
+  xy: 2, 2
+  size: 677, 676
+  orig: 677, 676
+  offset: 0, 0
+  index: -1
+Recliner2
+  rotate: false
+  xy: 2, 680
+  size: 677, 676
+  orig: 677, 676
+  offset: 0, 0
+  index: -1
+Recliner
+  rotate: false
+  xy: 2, 1358
+  size: 677, 676
+  orig: 677, 676
+  offset: 0, 0
+  index: -1
+Horse
+  rotate: false
+  xy: 2, 2036
+  size: 537, 440
+  orig: 537, 440
+  offset: 0, 0
+  index: -1
+Box
+  rotate: false
+  xy: 681, 2
+  size: 258, 400
+  orig: 258, 400
+  offset: 0, 0
+  index: -1
+MTC
+  rotate: false
+  xy: 681, 680
+  size: 330, 320
+  orig: 330, 320
+  offset: 0, 0
+  index: -1
+DTM
+  rotate: false
+  xy: 681, 1002
+  size: 330, 320
+  orig: 330, 320
+  offset: 0, 0
+  index: -1
+Wooden Star
+  rotate: false
+  xy: 541, 2036
+  size: 344, 292
+  orig: 344, 292
+  offset: 0, 0
+  index: -1
+No
+  rotate: false
+  xy: 681, 404
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1
+Music
+  rotate: false
+  xy: 681, 546
+  size: 128, 126
+  orig: 128, 126
+  offset: 0, 0
+  index: -1
+Dollar
+  rotate: false
+  xy: 831, 404
+  size: 172, 80
+  orig: 172, 80
+  offset: 0, 0
+  index: -1

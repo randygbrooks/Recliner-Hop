@@ -1,0 +1,61 @@
+
+coaxial.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MMN
+  rotate: false
+  xy: 2, 2
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
+MME
+  rotate: false
+  xy: 868, 2
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
+MLE
+  rotate: false
+  xy: 2, 682
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
+MHE
+  rotate: false
+  xy: 868, 682
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
+LME
+  rotate: false
+  xy: 2, 1362
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
+LLN
+  rotate: false
+  xy: 868, 1362
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
+HME
+  rotate: false
+  xy: 2, 2042
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
+HHN
+  rotate: false
+  xy: 868, 2042
+  size: 864, 678
+  orig: 864, 678
+  offset: 0, 0
+  index: -1
