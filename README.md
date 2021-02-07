@@ -1,3 +1,7 @@
+# 2021 Note:
+Just looked through this several year old code I wrote in college. It's really bad. Would like to rewrite this project, but I'm archiving this repo.
+
+
 # Recliner-Hop
 
 This is an android game developed with LibGDX and Box2D.
